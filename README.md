@@ -3,7 +3,7 @@
   <h3>WordPress Developer | Digital Marketer | Agentic AI Enthusiast</h3>
   <p>Building high-performance, zero-bloat WordPress architecture and e-commerce solutions.</p>
   
-  <img src="https://media.giphy.com/media/RQSuZfuylVNAY/giphy.gif" width="400" alt="Anime Girl Laptop" style="border-radius: 10px;" />
+  <div class="tenor-gif-embed" data-postid="17868887" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/yuri-anime-ice-waving-hello-gif-17868887">Yuri Anime Sticker</a>from <a href="https://tenor.com/search/yuri-stickers">Yuri Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ---
