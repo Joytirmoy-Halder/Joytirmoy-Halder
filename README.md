@@ -3,7 +3,7 @@
   <h3>WordPress Developer | Digital Marketer | Agentic AI Enthusiast</h3>
   <p>Building high-performance, zero-bloat WordPress architecture and e-commerce solutions.</p>
   
-  <img src="https://i.pinimg.com/originals/cb/e6/57/cbe657dbf5d8ab60dcab42d1b82bd5e3.gif" width="400" alt="Anime Coding Aesthetic" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Anime Coding Aesthetic" />
 </div>
 
 ---
