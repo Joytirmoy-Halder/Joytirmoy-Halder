@@ -46,6 +46,7 @@ I currently oversee the development, maintenance, and technical optimization for
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's GitHub Stats" />
@@ -54,12 +55,13 @@ I currently oversee the development, maintenance, and technical optimization for
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purplin.png" width="100%" alt="divider" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joytirmoy-Halder&theme=radical&hide_border=true&background=0D1117" alt="Joytirmoy's Contribution Streak" />
 </div>
+
 
 <br>
 
