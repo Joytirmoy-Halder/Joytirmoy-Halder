@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I am a developer and digital marketer bridging the gap between technical optimization and business growth. With a BSc in Computer Science and Engineering from AIUB, I specialize in engineering lightweight utility plugins that prioritize Core Web Vitals and clean server architecture.
+I am a Developer and Digital Marketer who bridges the gap between clean code and strategic business growth. With a BSc in Computer Science and Engineering from AIUB, I bring a rigorous, analytical approach to web performance, e-commerce architecture, and digital reach.
 
-- 🔭 **Currently focusing on:** Agentic AI development workflows (Antigravity IDE) to automate complex PHP/JS logic and build secure, single-purpose plugins.
-- ⚡ **Development Philosophy:** Eliminating WordPress bloat, strictly managing DOM sizes, and executing precise conditional script loading.
-- 📈 **The Edge:** Combining advanced technical SEO with direct marketing strategies to ensure websites perform just as well in search engines as they do on GTmetrix.
-- 🌱 **Constantly evolving:** Preparing to expand my academic foundation through postgraduate studies in Information Technology.
+- 💻 **Languages & Stack:** I build and optimize primarily using **PHP, JavaScript, HTML5, and custom CSS**, while actively integrating agentic AI workflows (Antigravity IDE, Google Colab) to accelerate complex logic. Fully bilingual in **English and Bengali**, I can collaborate on global projects and localize marketing strategies.
+- 🚀 **What I've Built:** My hands-on experience ranges from developing custom WooCommerce affiliate plugins and lightweight utility tools, to driving comprehensive marketing and reach-optimization strategies for companies like Celestial Tech Limited. I currently manage the end-to-end technical infrastructure for over a dozen live e-commerce and corporate domains.
+- 🛠️ **Hardware to Software:** My technical passion doesn't stop at the browser. I build and configure my own high-performance development environments, managing everything from custom PC assembly to advanced BIOS tuning (ASRock, Secure Boot) for optimal workflow efficiency.
+- 🌱 **Future Goal:** I am committed to relentless, continuous learning. My ultimate objective is to improve myself in every technological way—whether that means mastering next-generation AI development environments, refining zero-bloat web architecture, or deepening my understanding of hardware engineering.
 
 ## 🛠️ Tech Stack & Tools
 
