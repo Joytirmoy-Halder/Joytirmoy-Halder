@@ -47,18 +47,21 @@ I currently oversee the development, maintenance, and technical optimization for
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />&nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
+  <h3>Activity & Top Languages</h3>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's GitHub Stats" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/--A93199?style=flat-square" width="75%" height="2" alt="divider" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/--A93199?style=flat-square" width="100%" height="3" alt="divider" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joytirmoy-Halder&theme=radical&hide_border=true&background=0D1117" alt="Contribution Streak" />
-</p>
+<div align="center">
+  <h3>Contribution Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joytirmoy-Halder&theme=radical&hide_border=true&background=0D1117" alt="Joytirmoy's Contribution Streak" />
+</div>
 
 
 <br>
