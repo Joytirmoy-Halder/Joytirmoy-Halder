@@ -53,7 +53,9 @@ I currently oversee the development, maintenance, and technical optimization for
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's Top Languages" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joytirmoy-Halder&theme=radical&hide_border=true&background=0D1117" alt="Joytirmoy's Contribution Streak" />
