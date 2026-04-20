@@ -54,5 +54,19 @@ I currently oversee the development, maintenance, and technical optimization for
 <br>
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's GitHub Stats" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joytirmoy-Halder&theme=radical&hide_border=true&background=0D1117" alt="Joytirmoy's Contribution Streak" />
+</div>
+
+<br>
+
+<div align="center">
   <i>Always open to collaborating on zero-bloat WordPress utilities or discussing advanced AI-assisted coding workflows.</i>
 </div>
