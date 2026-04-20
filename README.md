@@ -13,7 +13,7 @@ I am a Developer and Digital Marketer who bridges the gap between clean code and
 - 💻 **Languages & Stack:** I build and optimize primarily using **PHP, JavaScript, HTML5, and custom CSS**, while actively integrating agentic AI workflows (Antigravity IDE, Google Colab) to accelerate complex logic. Fully bilingual in **English and Bengali**, I can collaborate on global projects and localize marketing strategies.
 - 🚀 **What I've Built:** My hands-on experience ranges from developing custom WooCommerce affiliate plugins and lightweight utility tools, to driving comprehensive marketing and reach-optimization strategies for companies like Celestial Tech Limited. I currently manage the end-to-end technical infrastructure for over a dozen live e-commerce and corporate domains.
 - 🛠️ **Hardware to Software:** My technical passion doesn't stop at the browser. I build and configure my own high-performance development environments, managing everything from custom PC assembly to advanced BIOS tuning (ASRock, Secure Boot) for optimal workflow efficiency.
-- 🌱 **Future Goal:** I am committed to relentless, continuous learning. My ultimate objective is to improve myself in every technological way—whether that means mastering next-generation AI development environments, refining zero-bloat web architecture, or deepening my understanding of hardware engineering.
+- 🌱 **Future Goal:** I am committed to relentless, continuous learning. My ultimate objective is to improve myself in every technological way - whether that means mastering next-generation AI development environments, refining zero-bloat web architecture, or deepening my understanding of hardware engineering.
 
 ## 🛠️ Tech Stack & Tools
 
