@@ -3,7 +3,7 @@
   <h3>WordPress Developer | Digital Marketer | Agentic AI Enthusiast</h3>
   <p>Building high-performance, zero-bloat WordPress architecture and e-commerce solutions.</p>
   
-  <img src="PASTE_YOUR_LINK_HERE" width="400" alt="Yuri Anime Waving Hello" style="border-radius: 10px;" />
+  <img src="https://tenor.com/en-GB/view/coding-anime-gif-24565564" width="400" alt="Yuri Anime Waving Hello" style="border-radius: 10px;" />
 </div>
 
 ---
