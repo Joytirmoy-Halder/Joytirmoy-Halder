@@ -44,7 +44,6 @@ I currently oversee the development, maintenance, and technical optimization for
 | [raasbiotech.com](https://raasbiotech.com) | [theglobalsync.com](https://theglobalsync.com) | [helloebrahim.com](http://helloebrahim.com) |
 | [salesninja.asia](https://salesninja.asia) | [hustlers-hive.com](https://hustlers-hive.com) | [globalpiks.com](https://globalpiks.com) |
 
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
@@ -55,7 +54,7 @@ I currently oversee the development, maintenance, and technical optimization for
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purplin.png" width="100%" alt="divider" />
+  <img src="https://img.shields.io/badge/--A93199?style=flat-square" width="100%" height="3" alt="divider" />
 </div>
 
 <div align="center">
