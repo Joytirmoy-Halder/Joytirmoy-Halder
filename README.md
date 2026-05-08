@@ -52,8 +52,8 @@ I currently oversee the development, maintenance, and technical optimization for
 
 <div align="center">
   <h3>Activity & Top Languages</h3>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Joytirmoy's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=false" alt="Joytirmoy's Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=false&count_private=true&cache_seconds=1800" alt="Joytirmoy's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=false&cache_seconds=1800" alt="Joytirmoy's Top Languages" />
 </div>
 
 <div align="center">
@@ -72,10 +72,4 @@ I currently oversee the development, maintenance, and technical optimization for
 <div align="center">
   <h3>Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joytirmoy-Halder&theme=radical&hide_border=false" width="100%" alt="Joytirmoy's Contribution Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>Always open to collaborating on zero-bloat WordPress utilities or discussing advanced AI-assisted coding workflows.</i>
 </div>
