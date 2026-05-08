@@ -83,42 +83,32 @@ I currently oversee the development, maintenance, and technical optimization for
 
 ## 💼 Professional Experience
 
-<details open>
-<summary><b>🌐 Website Development Specialist</b> | <i>Aggressive ROI</i> ▹ <code>Present</code></summary>
+> 💡 **Interactive:** Hover over the technology badges, dates, and links below for deeper insights into my workflow.
 
-> **Focus:** Architecting high-performance, zero-bloat WordPress environments and e-commerce solutions.
-> 
-> - **Infrastructure:** Manage end-to-end technical health, development, and maintenance for a diverse portfolio of live e-commerce, agency, and corporate domains.
-> - **Development:** Implement custom WooCommerce solutions, advanced theme customizations, and strict performance optimizations.
-> - 🔗 *Key Projects: netragrowth.com, brewhaus.coffee, a3sports.com.my, and 10+ others.*
+### 🚀 Aggressive ROI
+**Website Development Specialist (WordPress)** | <kbd title="Actively managing and maintaining over a dozen live production environments">🟢 PRESENT</kbd>
+- Manage end-to-end technical infrastructure, development, and maintenance for a diverse portfolio of live e-commerce, agency, and corporate domains.
+- Focus on building high-performance, zero-bloat WordPress architecture and implementing custom WooCommerce solutions.
+- **Key Projects:** [netragrowth.com](https://netragrowth.com 'Explore the custom architecture for Netra Growth'), [brewhaus.coffee](https://brewhaus.coffee 'Explore the e-commerce setup for Brewhaus Coffee'), [a3sports.com.my](https://a3sports.com.my 'Explore A3 Sports'), and 10+ others.
+<br>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white 'Custom Theme & Plugin Development') ![Elementor](https://img.shields.io/badge/Elementor-D63384?style=flat-square&logo=elementor&logoColor=white 'Advanced Layouts & Performance Optimization') ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white 'Complete E-commerce Infrastructure')
 
-</details>
+---
 
-<br>
+### 🏢 Acote Group
+**Associate (BPO)** | <kbd title="Ensuring seamless corporate operations">🟢 PRESENT</kbd>
+- Ensure operational efficiency, client communication, and seamless workflow execution within a fast-paced environment.
 
-<details>
-<summary><b>🎧 Associate (BPO)</b> | <i>Acote Group</i> ▹ <code>Present</code></summary>
+---
 
-> - Ensure operational efficiency, client communication, and seamless workflow execution within a fast-paced environment.
+### 💻 Afra Enterprise Ltd.
+**Freelance WordPress Developer** | <kbd title="Successfully deployed and handed over to client">✅ 2025</kbd>
+- Architected and developed the complete corporate web presence from the ground up, ensuring responsive design and brand alignment.
+- 🔗 **Live Site:** [afraenterpriseltd.com](https://www.afraenterpriseltd.com 'Click to view the live corporate site')
 
-</details>
+---
 
-<br>
-
-<details>
-<summary><b>💻 Freelance WordPress Developer</b> | <i>Afra Enterprise Ltd.</i> ▹ <code>2025</code></summary>
-
-> - Architected and developed the complete corporate web presence from the ground up, ensuring responsive design and brand alignment.
-> - 🔗 **Live Site:** [afraenterpriseltd.com](https://www.afraenterpriseltd.com)
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🎬 Freelance Video Editor & Digital Marketer</b> | <i>Self-Employed</i> ▹ <code>Previous</code></summary>
-
-> - **Content Production:** Produced high-quality promotional content, event highlights, and social media assets using Adobe Premiere Pro and Vegas Pro.
-> - **Marketing Strategy:** Leveraged digital marketing strategies to meet tight client deadlines and exact branding specifications.
-
-</details>
+### 🎬 Self-Employed & Source Edge Ltd.
+**Freelance Video Editor & Digital Marketer** | <kbd title="Previous contractual and freelance engagements">✅ PREVIOUS</kbd>
+- Produced high-quality promotional content, event highlights, and social media assets.
+- Leveraged digital marketing strategies to meet tight client deadlines and exact branding specifications.
+<br>![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white 'Video Production & Editing') ![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-F9AB00?style=flat-square&logo=google-ads&logoColor=white 'Targeted Campaign Strategy')
