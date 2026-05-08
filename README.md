@@ -52,7 +52,7 @@ I currently oversee the development, maintenance, and technical optimization for
 
 <div align="center">
   <h3>Activity & Top Languages</h3>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joytirmoy-Halder&theme=radical" alt="Joytirmoy's Profile Details" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joytirmoy-Halder&theme=radical" alt="Joytirmoy's GitHub Stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joytirmoy-Halder&theme=radical" alt="Joytirmoy's Top Languages" />
 </div>
 
