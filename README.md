@@ -83,41 +83,35 @@ I currently oversee the development, maintenance, and technical optimization for
 
 ## 💼 Professional Experience
 
-```json
-{
-  "professional_experience": [
-    {
-      "role": "Website Development Specialist",
-      "company": "Aggressive ROI",
-      "timeline": "Present",
-      "core_focus": "High-performance, zero-bloat WordPress architecture",
-      "responsibilities": "Manage end-to-end technical infrastructure for a diverse portfolio of domains.",
-      "live_deployments": [
-        "netragrowth.com",
-        "brewhaus.coffee",
-        "a3sports.com.my",
-        "10_others..."
-      ],
-      "stack": ["WordPress", "WooCommerce", "Elementor"]
-    },
-    {
-      "role": "Associate (BPO)",
-      "company": "Acote Group",
-      "timeline": "Present",
-      "responsibilities": "Ensure operational efficiency, client communication, and seamless workflow execution."
-    },
-    {
-      "role": "Freelance WordPress Developer",
-      "company": "Afra Enterprise Ltd.",
-      "timeline": "2025",
-      "responsibilities": "Architected and developed complete corporate web presence.",
-      "live_site": "afraenterpriseltd.com"
-    },
-    {
-      "role": "Video Editor & Digital Marketer",
-      "company": "Source Edge Ltd. / Self-Employed",
-      "timeline": "Previous",
-      "responsibilities": "Produced high-quality promotional content and executed digital marketing strategies."
-    }
-  ]
-}
+### 🏢 Aggressive ROI
+> **Website Development Specialist (WordPress)** · *Present*
+> 
+> Architecting high-performance, zero-bloat WordPress environments and managing the end-to-end technical infrastructure for a diverse portfolio of live e-commerce and agency domains.
+> 
+> 🚀 **Deployments:** [netragrowth.com](https://netragrowth.com) · [brewhaus.coffee](https://brewhaus.coffee) · [a3sports.com.my](https://a3sports.com.my)
+> 🛠️ **Stack:** ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+
+---
+
+### 🎧 Acote Group
+> **Associate (BPO)** · *Present*
+> 
+> Ensuring operational efficiency, strict client communication, and seamless workflow execution within a fast-paced corporate environment.
+
+---
+
+### 💻 Afra Enterprise Ltd.
+> **Freelance WordPress Developer** · *2025*
+> 
+> Developed the complete corporate web presence from the ground up, ensuring responsive design and brand alignment.
+> 
+> 🔗 **Live Site:** [afraenterpriseltd.com](https://www.afraenterpriseltd.com)
+
+---
+
+### 🎬 Self-Employed & Source Edge Ltd.
+> **Freelance Video Editor & Digital Marketer** · *Previous*
+> 
+> Produced high-quality promotional content, event highlights, and social media assets. Leveraged digital marketing strategies to meet tight client deadlines and exact branding specifications.
+> 
+> 🛠️ **Tools:** ![Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Vegas](https://img.shields.io/badge/Vegas_Pro-00B2FF?style=flat-square&logo=vegas&logoColor=white)
