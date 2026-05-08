@@ -52,8 +52,8 @@ I currently oversee the development, maintenance, and technical optimization for
 
 <div align="center">
   <h3>Activity & Top Languages</h3>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=false&count_private=true&cache_seconds=1800" alt="Joytirmoy's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=false&cache_seconds=1800" alt="Joytirmoy's Top Languages" />
+  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&theme=radical&hide_border=false" alt="Joytirmoy's GitHub Stats" />
+  <img height="180" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&theme=radical&hide_border=false" alt="Joytirmoy's Top Languages" />
 </div>
 
 <div align="center">
