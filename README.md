@@ -81,24 +81,44 @@ I currently oversee the development, maintenance, and technical optimization for
 </div>
 
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-**Website Development Specialist (WordPress)** | *Aggressive ROI* <br>
-*Present*
-- Manage end-to-end technical infrastructure, development, and maintenance for a diverse portfolio of live e-commerce, agency, and corporate domains.
-- Focus on building high-performance, zero-bloat WordPress architecture and implementing custom WooCommerce solutions.
-- *Projects include: netragrowth.com, brewhaus.coffee, a3sports.com.my, and 10+ others (see Live Projects below).*
+<details open>
+<summary><b>🌐 Website Development Specialist</b> | <i>Aggressive ROI</i> ▹ <code>Present</code></summary>
 
-**Associate (BPO)** | *Acote Group* <br>
-*Present*
-- Ensure operational efficiency, client communication, and seamless workflow execution within a fast-paced environment.
+> **Focus:** Architecting high-performance, zero-bloat WordPress environments and e-commerce solutions.
+> 
+> - **Infrastructure:** Manage end-to-end technical health, development, and maintenance for a diverse portfolio of live e-commerce, agency, and corporate domains.
+> - **Development:** Implement custom WooCommerce solutions, advanced theme customizations, and strict performance optimizations.
+> - 🔗 *Key Projects: netragrowth.com, brewhaus.coffee, a3sports.com.my, and 10+ others.*
 
-**Freelance WordPress Developer** | *Afra Enterprise Ltd.* <br>
-*2025*
-- Architected and developed the complete corporate web presence from the ground up.
-- **Live Site:** [afraenterpriseltd.com](https://www.afraenterpriseltd.com)
+</details>
 
-**Freelance Video Editor & Digital Marketer** <br>
-*Previous*
-- Produced high-quality promotional content, event highlights, and social media assets using Adobe Premiere Pro and Vegas Pro.
-- Leveraged digital marketing strategies to meet tight client deadlines and exact specifications.
+<br>
+
+<details>
+<summary><b>🎧 Associate (BPO)</b> | <i>Acote Group</i> ▹ <code>Present</code></summary>
+
+> - Ensure operational efficiency, client communication, and seamless workflow execution within a fast-paced environment.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>💻 Freelance WordPress Developer</b> | <i>Afra Enterprise Ltd.</i> ▹ <code>2025</code></summary>
+
+> - Architected and developed the complete corporate web presence from the ground up, ensuring responsive design and brand alignment.
+> - 🔗 **Live Site:** [afraenterpriseltd.com](https://www.afraenterpriseltd.com)
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🎬 Freelance Video Editor & Digital Marketer</b> | <i>Self-Employed</i> ▹ <code>Previous</code></summary>
+
+> - **Content Production:** Produced high-quality promotional content, event highlights, and social media assets using Adobe Premiere Pro and Vegas Pro.
+> - **Marketing Strategy:** Leveraged digital marketing strategies to meet tight client deadlines and exact branding specifications.
+
+</details>
