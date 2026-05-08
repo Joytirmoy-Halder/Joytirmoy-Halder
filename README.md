@@ -12,10 +12,10 @@
 
 I am a Developer and Digital Marketer who bridges the gap between clean code and strategic business growth. With a BSc in Computer Science and Engineering from AIUB, I bring a rigorous, analytical approach to web performance, e-commerce architecture, and digital reach.
 
-- 💻 **Languages & Stack:** I build and optimize primarily using **PHP, JavaScript, HTML5, and custom CSS**, while actively integrating agentic AI workflows (Antigravity IDE, Google Colab) to accelerate complex logic. Fully bilingual in **English and Bengali**, I can collaborate on global projects and localize marketing strategies.
-- 🚀 **What I've Built:** My hands-on experience ranges from developing custom WooCommerce affiliate plugins and lightweight utility tools, to driving comprehensive marketing and reach-optimization strategies for companies like Celestial Tech Limited. I currently manage the end-to-end technical infrastructure for over a dozen live e-commerce and corporate domains.
+- 💻 **Architecture & Vibe Coding:** I build and optimize primarily using PHP, JavaScript, and custom CSS. Beyond traditional syntax, I actively embrace **vibe coding**—leveraging advanced agentic AI workflows (Antigravity IDE, Google Colab) to rapidly generate complex logic and boilerplate, allowing me to focus entirely on system architecture, user intent, and the "vibe" of the final product.
+- 🚀 **What I've Built:** My hands-on experience ranges from developing custom WooCommerce affiliate plugins to driving comprehensive marketing and reach-optimization strategies. I currently manage the end-to-end technical infrastructure for a massive portfolio of corporate and e-commerce domains.
 - 🛠️ **Hardware to Software:** My technical passion doesn't stop at the browser. I build and configure my own high-performance development environments, managing everything from custom PC assembly to advanced BIOS tuning (ASRock, Secure Boot) for optimal workflow efficiency.
-- 🌱 **Future Goal:** I am committed to relentless, continuous learning. My ultimate objective is to improve myself in every technological way - whether that means mastering next-generation AI development environments, refining zero-bloat web architecture, or deepening my understanding of hardware engineering.
+- 🌱 **Future Goal:** I am committed to relentless, continuous learning. My ultimate objective is to improve myself in every technological way—whether that means mastering next-generation AI development environments, refining zero-bloat web architecture, or deepening my understanding of hardware engineering.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -35,18 +35,39 @@ I am a Developer and Digital Marketer who bridges the gap between clean code and
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌍 Live Projects & Managed Infrastructure
+---
 
-I currently oversee the development, maintenance, and technical optimization for a diverse portfolio of live production environments:
+## 💼 Professional Trajectory
 
-| E-Commerce & Corporate | Agency & Tech | Niche & Content |
-| :--- | :--- | :--- |
-| [a3sports.com.my](https://a3sports.com.my) | [c4a-ig.com](https://c4a-ig.com) | [a3cricket.eu](https://a3cricket.eu) |
-| [minjiasia.online](https://minjiasia.online) | [leadsync.biz](https://leadsync.biz) | [aggressiveroi.com](https://aggressiveroi.com) |
-| [raasbiotech.com](https://raasbiotech.com) | [theglobalsync.com](https://theglobalsync.com) | [helloebrahim.com](http://helloebrahim.com) |
-| [salesninja.asia](https://salesninja.asia) | [netragrowth.com](https://netragrowth.com) | [globalpiks.com](https://globalpiks.com) |
-| [brewhaus.coffee](https://brewhaus.coffee) | [hustlers-hive.com](https://hustlers-hive.com) | |
+![Aggressive ROI](https://img.shields.io/badge/Aggressive_ROI-Website_Development_Specialist-0B5394?style=for-the-badge) <br>
+**Timeline:** `Present` <br>
+> Architecting high-performance, zero-bloat WordPress environments and managing the end-to-end technical infrastructure for a diverse portfolio of corporate domains.
 
+<br>
+
+![Acote Group](https://img.shields.io/badge/Acote_Group-Associate_(BPO)-4A154B?style=for-the-badge) <br>
+**Timeline:** `Present` <br>
+> Ensuring operational efficiency, strict client communication, and seamless workflow execution within a fast-paced corporate environment.
+
+<br>
+
+![Afra Enterprise](https://img.shields.io/badge/Afra_Enterprise_Ltd.-WordPress_Developer-232F3E?style=for-the-badge) <br>
+**Timeline:** `2025` <br>
+> Developed the complete corporate web presence from the ground up, ensuring fully responsive design and precise brand alignment.
+
+<br>
+
+![Self Employed](https://img.shields.io/badge/Self_Employed-Video_Editor_&_Marketer-990000?style=for-the-badge) <br>
+**Timeline:** `Previous` <br>
+> Produced high-quality promotional content and leveraged targeted digital marketing strategies to meet tight client deadlines and exact visual specifications.
+
+<br>
+
+![Source Edge](https://img.shields.io/badge/Source_Edge_Ltd.-Marketing_Team_Member-B45F06?style=for-the-badge) <br>
+**Timeline:** `2019` <br>
+> Executed foundational digital marketing strategies and supported comprehensive campaign rollouts across multiple digital channels.
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -79,39 +100,3 @@ I currently oversee the development, maintenance, and technical optimization for
 <div align="center">
   <i>Always open to collaborating on zero-bloat WordPress utilities or discussing advanced AI-assisted coding workflows.</i>
 </div>
-
-
-## 💼 Professional Experience
-
-### 🏢 Aggressive ROI
-> **Website Development Specialist (WordPress)** · *Present*
-> 
-> Architecting high-performance, zero-bloat WordPress environments and managing the end-to-end technical infrastructure for a diverse portfolio of live e-commerce and agency domains.
-> 
-> 🚀 **Deployments:** [netragrowth.com](https://netragrowth.com) · [brewhaus.coffee](https://brewhaus.coffee) · [a3sports.com.my](https://a3sports.com.my)
-> 🛠️ **Stack:** ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-
----
-
-### 🎧 Acote Group
-> **Associate (BPO)** · *Present*
-> 
-> Ensuring operational efficiency, strict client communication, and seamless workflow execution within a fast-paced corporate environment.
-
----
-
-### 💻 Afra Enterprise Ltd.
-> **Freelance WordPress Developer** · *2025*
-> 
-> Developed the complete corporate web presence from the ground up, ensuring responsive design and brand alignment.
-> 
-> 🔗 **Live Site:** [afraenterpriseltd.com](https://www.afraenterpriseltd.com)
-
----
-
-### 🎬 Self-Employed & Source Edge Ltd.
-> **Freelance Video Editor & Digital Marketer** · *Previous*
-> 
-> Produced high-quality promotional content, event highlights, and social media assets. Leveraged digital marketing strategies to meet tight client deadlines and exact branding specifications.
-> 
-> 🛠️ **Tools:** ![Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Vegas](https://img.shields.io/badge/Vegas_Pro-00B2FF?style=flat-square&logo=vegas&logoColor=white)
