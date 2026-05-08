@@ -37,6 +37,20 @@ I am a Developer and Digital Marketer who bridges the gap between clean code and
 
 ---
 
+## 🌍 Live Projects & Managed Infrastructure
+
+I currently oversee the development, maintenance, and technical optimization for a diverse portfolio of live production environments:
+
+| E-Commerce & Corporate | Agency & Tech | Niche & Content |
+| :--- | :--- | :--- |
+| [a3sports.com.my](https://a3sports.com.my) | [c4a-ig.com](https://c4a-ig.com) | [a3cricket.eu](https://a3cricket.eu) |
+| [minjiasia.online](https://minjiasia.online) | [leadsync.biz](https://leadsync.biz) | [aggressiveroi.com](https://aggressiveroi.com) |
+| [raasbiotech.com](https://raasbiotech.com) | [theglobalsync.com](https://theglobalsync.com) | [helloebrahim.com](http://helloebrahim.com) |
+| [salesninja.asia](https://salesninja.asia) | [netragrowth.com](https://netragrowth.com) | [globalpiks.com](https://globalpiks.com) |
+| [brewhaus.coffee](https://brewhaus.coffee) | [hustlers-hive.com](https://hustlers-hive.com) | |
+
+---
+
 ## 💼 Professional Trajectory
 
 ![Aggressive ROI](https://img.shields.io/badge/Aggressive_ROI-Website_Development_Specialist-0B5394?style=for-the-badge) <br>
