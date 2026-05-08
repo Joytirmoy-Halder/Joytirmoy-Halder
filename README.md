@@ -79,3 +79,26 @@ I currently oversee the development, maintenance, and technical optimization for
 <div align="center">
   <i>Always open to collaborating on zero-bloat WordPress utilities or discussing advanced AI-assisted coding workflows.</i>
 </div>
+
+
+## 💼 Work Experience
+
+**Website Development Specialist (WordPress)** | *Aggressive ROI* <br>
+*Present*
+- Manage end-to-end technical infrastructure, development, and maintenance for a diverse portfolio of live e-commerce, agency, and corporate domains.
+- Focus on building high-performance, zero-bloat WordPress architecture and implementing custom WooCommerce solutions.
+- *Projects include: netragrowth.com, brewhaus.coffee, a3sports.com.my, and 10+ others (see Live Projects below).*
+
+**Associate (BPO)** | *Acote Group* <br>
+*Present*
+- Ensure operational efficiency, client communication, and seamless workflow execution within a fast-paced environment.
+
+**Freelance WordPress Developer** | *Afra Enterprise Ltd.* <br>
+*2025*
+- Architected and developed the complete corporate web presence from the ground up.
+- **Live Site:** [afraenterpriseltd.com](https://www.afraenterpriseltd.com)
+
+**Freelance Video Editor & Digital Marketer** <br>
+*Previous*
+- Produced high-quality promotional content, event highlights, and social media assets using Adobe Premiere Pro and Vegas Pro.
+- Leveraged digital marketing strategies to meet tight client deadlines and exact specifications.
