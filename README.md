@@ -43,11 +43,11 @@ I currently oversee the development, maintenance, and technical optimization for
 
 | E-Commerce & Corporate | Agency & Tech | Niche & Content |
 | :--- | :--- | :--- |
-| [a3sports.com.my](https://a3sports.com.my) | [c4a-ig.com](https://c4a-ig.com) | [a3cricket.eu](https://a3cricket.eu) |
-| [minjiasia.com](https://minjiasia.com) | [aggressiveroi.com](https://aggressiveroi.com) |
-| [raasbiotech.com](https://raasbiotech.com) | [theglobalsync.com](https://theglobalsync.com) | [publicaward.com.my](https://publicaward.com.my) |
-| [salesninja.asia](https://salesninja.asia) | [netragrowth.com](https://netragrowth.com) | [globalpiks.com](https://globalpiks.com) |
-| [brewhaus.coffee](https://brewhaus.coffee) | [hustlers-hive.com](https://hustlers-hive.com) | |
+| [a3sports.com.my](https://a3sports.com.my) | [aggressiveroi.com](https://aggressiveroi.com) | [a3cricket.eu](https://a3cricket.eu) |
+| [brewhaus.coffee](https://brewhaus.coffee) | [c4a-ig.com](https://c4a-ig.com) | [globalpiks.com](https://globalpiks.com) |
+| [minjiasia.com](https://minjiasia.com) | [hustlers-hive.com](https://hustlers-hive.com) | [publicaward.com.my](https://publicaward.com.my) |
+| [raasbiotech.com](https://raasbiotech.com) | [netragrowth.com](https://netragrowth.com) | |
+| [salesninja.asia](https://salesninja.asia) | [theglobalsync.com](https://theglobalsync.com) | |
 
 ---
 
