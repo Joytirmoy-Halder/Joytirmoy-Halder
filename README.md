@@ -60,7 +60,7 @@ I currently oversee the development, maintenance, and technical optimization for
 <br>
 
 ![Acote Group](https://img.shields.io/badge/Acote_Group-Associate_(BPO)-4A154B?style=for-the-badge) <br>
-**Timeline:** `Present` <br>
+**Timeline:** `21st oct 2025 -  17th jan 2026` <br>
 > Ensuring operational efficiency, strict client communication, and seamless workflow execution within a fast-paced corporate environment.
 
 <br>
