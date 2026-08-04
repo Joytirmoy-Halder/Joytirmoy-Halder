@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Joytirmoy Halder GitHub statistics: 19 public repositories, 104 commits, 132 contributions, 12 stars, 8 shipped plugins, 14 live domains. Language distribution by repository: PHP 72 percent, HTML 11 percent, CSS 6 percent, C-sharp 6 percent, Jupyter Notebook 6 percent.">
+  <style>
+    .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+    .h1 { font-size: 17px; font-weight: 600; fill: #f4f3f1; }
+    .sub { font-size: 11px; fill: #6e6c67; }
+    .num { font-size: 26px; font-weight: 600; fill: #e0a42b; }
+    .lbl { font-size: 9.5px; fill: #a3a19c; letter-spacing: 0.09em; }
+    .sec { font-size: 12px; font-weight: 600; fill: #f4f3f1; }
+    .lang { font-size: 11.5px; fill: #a3a19c; }
+    .pct { font-size: 11.5px; font-weight: 600; fill: #f4f3f1; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="899" height="249" rx="10" fill="#0D1117" stroke="#e0a42b" stroke-opacity="0.28"/>
+  <rect x="0.5" y="0.5" width="899" height="3" rx="1.5" fill="#e0a42b" fill-opacity="0.55"/>
+
+  <g class="t">
+    <text x="32" y="42" class="h1">Joytirmoy Halder — GitHub at a glance</text>
+    <text x="32" y="62" class="sub">Self-hosted card · no third-party uptime dependency · updated Aug 2026</text>
+
+    <line x1="452" y1="84" x2="452" y2="228" stroke="#ffffff" stroke-opacity="0.09"/>
+
+    <g>
+      <text x="32" y="122" class="num">19</text>
+      <text x="32" y="140" class="lbl">PUBLIC REPOS</text>
+      <text x="172" y="122" class="num">104</text>
+      <text x="172" y="140" class="lbl">COMMITS</text>
+      <text x="312" y="122" class="num">132</text>
+      <text x="312" y="140" class="lbl">CONTRIBUTIONS</text>
+
+      <text x="32" y="196" class="num">12</text>
+      <text x="32" y="214" class="lbl">STARS EARNED</text>
+      <text x="172" y="196" class="num">8</text>
+      <text x="172" y="214" class="lbl">SHIPPED PLUGINS</text>
+      <text x="312" y="196" class="num">14</text>
+      <text x="312" y="214" class="lbl">LIVE DOMAINS</text>
+    </g>
+
+    <g>
+      <text x="484" y="102" class="sec">Language distribution (by repository)</text>
+
+      <text x="484" y="130" class="lang">PHP</text>
+      <rect x="620" y="122" width="188" height="8" rx="4" fill="#ffffff" fill-opacity="0.07"/>
+      <rect x="620" y="122" width="136" height="8" rx="4" fill="#777BB4"/>
+      <text x="820" y="130" class="pct">72%</text>
+
+      <text x="484" y="154" class="lang">HTML</text>
+      <rect x="620" y="146" width="188" height="8" rx="4" fill="#ffffff" fill-opacity="0.07"/>
+      <rect x="620" y="146" width="21" height="8" rx="4" fill="#E34F26"/>
+      <text x="820" y="154" class="pct">11%</text>
+
+      <text x="484" y="178" class="lang">CSS</text>
+      <rect x="620" y="170" width="188" height="8" rx="4" fill="#ffffff" fill-opacity="0.07"/>
+      <rect x="620" y="170" width="11" height="8" rx="4" fill="#1572B6"/>
+      <text x="820" y="178" class="pct">6%</text>
+
+      <text x="484" y="202" class="lang">C#</text>
+      <rect x="620" y="194" width="188" height="8" rx="4" fill="#ffffff" fill-opacity="0.07"/>
+      <rect x="620" y="194" width="11" height="8" rx="4" fill="#953DAC"/>
+      <text x="820" y="202" class="pct">6%</text>
+
+      <text x="484" y="226" class="lang">Jupyter Notebook</text>
+      <rect x="620" y="218" width="188" height="8" rx="4" fill="#ffffff" fill-opacity="0.07"/>
+      <rect x="620" y="218" width="11" height="8" rx="4" fill="#DA5B0B"/>
+      <text x="820" y="226" class="pct">6%</text>
+    </g>
+  </g>
+</svg>
