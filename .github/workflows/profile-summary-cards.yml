@@ -1,0 +1,31 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # Once per day at 00:00 UTC (06:00 Asia/Dhaka).
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      # Required so the run can commit the generated SVGs back to the repo.
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses a personal access token if one is stored as SUMMARY_GITHUB_TOKEN,
+          # otherwise falls back to the token GitHub provides automatically.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # Asia/Dhaka is UTC+6; this only affects the productive-time card.
+          UTC_OFFSET: 6
+          THEME: "github_dark"
+          AUTO_PUSH: true
