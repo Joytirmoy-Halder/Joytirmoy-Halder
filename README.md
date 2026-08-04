@@ -101,7 +101,7 @@ I currently oversee the development, maintenance, and technical optimization for
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="assets/github-stats.svg" width="100%" alt="Joytirmoy Halder: 19 public repositories, 104 commits, 132 contributions, 12 stars, 8 shipped plugins, 14 live domains. Language distribution by repository: PHP 72%, HTML 11%, CSS 6%, C# 6%, Jupyter Notebook 6%." />
+  <img src="assets/github-stats-v2.svg" width="100%" alt="Joytirmoy Halder: 19 public repositories, 104 commits, 132 contributions, 12 stars, 8 shipped plugins, 14 live domains. Language distribution by repository: PHP 72%, HTML 11%, CSS 6%, C# 6%, Jupyter Notebook 6%." />
 </div>
 
 <div align="center">
