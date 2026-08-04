@@ -101,27 +101,25 @@ I currently oversee the development, maintenance, and technical optimization for
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <h3>Activity & Top Languages</h3>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joytirmoy-Halder&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joytirmoy-Halder&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Joytirmoy's Top Languages" />
+  <img src="assets/github-stats.svg" width="100%" alt="Joytirmoy Halder: 19 public repositories, 104 commits, 132 contributions, 12 stars, 8 shipped plugins, 14 live domains. Language distribution by repository: PHP 72%, HTML 11%, CSS 6%, C# and Jupyter Notebook 11%." />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/--A93199?style=flat-square" width="100%" height="3" alt="divider" />
+  <img src="https://img.shields.io/badge/--e0a42b?style=flat-square" width="100%" height="3" alt="divider" />
 </div>
 
 <div align="center">
   <h3>Contribution Streak</h3>
-  <img src="https://streak-stats.demolab.com/?user=Joytirmoy-Halder&theme=radical&hide_border=true&background=0D1117" alt="Joytirmoy's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Joytirmoy-Halder&hide_border=true&background=0D1117&border=e0a42b&stroke=e0a42b&ring=e0a42b&fire=f0c368&currStreakLabel=e0a42b&sideLabels=a3a19c&currStreakNum=f4f3f1&sideNums=f4f3f1&dates=6e6c67" alt="Joytirmoy's Contribution Streak" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/--A93199?style=flat-square" width="100%" height="3" alt="divider" />
+  <img src="https://img.shields.io/badge/--e0a42b?style=flat-square" width="100%" height="3" alt="divider" />
 </div>
 
 <div align="center">
   <h3>Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joytirmoy-Halder&theme=radical&bg_color=0D1117&hide_border=true" width="100%" alt="Joytirmoy's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joytirmoy-Halder&bg_color=0D1117&color=f4f3f1&title_color=e0a42b&line=e0a42b&point=f0c368&area=true&area_color=e0a42b&hide_border=true" width="100%" alt="Joytirmoy's Contribution Graph" />
 </div>
 
 ---
